@@ -84,5 +84,10 @@
     <h2 id="conclusion">Conclusion</h2>
     <p>The project demonstrates the potential of deep learning models, particularly InceptionV3, in providing accurate and timely diagnosis of Alzheimer’s and Parkinson’s diseases based on MRI images.</p>
 
+    <h2 id="acknowledgements">Acknowledgements</h2>
+    <p>We extend our gratitude to our supervisor, Mahruba Sharmin Chowdhury, for her guidance and support throughout this project. Special thanks to Abdullah Al Noman for his essential guidance during challenging times.</p>
+
+    <h2 id="references">References</h2>
+    <p>Detailed references are available in the report document.</p>
 </body>
 </html>
